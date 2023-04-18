@@ -14,7 +14,7 @@ Write a little bit about what I learned, what I liked😉.
 
 [TwoBoneIkLearning](https://oux9siwj6v.feishu.cn/docx/Pq8GdBvEloEsL8x3VY3cVYkgnHd)
 
-
+---
 
 ## C++
 
@@ -22,7 +22,7 @@ Write a little bit about what I learned, what I liked😉.
 
 [C++ Implementation data structure](https://oux9siwj6v.feishu.cn/docx/HYU7dnmhEowJItxhKBsc4QYknje)
 
-
+---
 
 ## Computer Graphics
 
