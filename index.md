@@ -1,8 +1,26 @@
 # **Minimalism**
 
-Write a little bit about what I learned, what I liked😉.
+Write a little bit about what I learned, what I liked😉. 
+
+This is not a technical blog, only a matter of learning note.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## Unreal Engine
 
