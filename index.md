@@ -12,7 +12,7 @@ This is not a technical blog, only a matter of learning note.
 
 [Make the FPS Game - Follow HuoXingDeLaoWang](https://oux9siwj6v.feishu.cn/docx/doxcnbUB6KM4uFPTIZ1FZPko1wd)
 
-[Try to reproduce PUBG](https://oux9siwj6v.feishu.cn/docx/Ua7MdDGujoB0zRxEZ8acsiSGnng)
+[Try to reproduce PUBG](https://oux9siwj6v.feishu.cn/docx/Ua7MdDGujoB0zRxEZ8acsiSGnng)	[FI Bachelor Thesis.pdf](PDF\FI Thesis SHIWEIHAO.pdf) 
 
 [TwoBoneIkLearning](https://oux9siwj6v.feishu.cn/docx/Pq8GdBvEloEsL8x3VY3cVYkgnHd)
 
@@ -33,4 +33,3 @@ This is not a technical blog, only a matter of learning note.
 [Computer Graphics Programming In Opengl With C++](https://oux9siwj6v.feishu.cn/docs/doccnFSkmvf5vrpwZdBHPlgtbxb)
 
 [GAMES101](https://oux9siwj6v.feishu.cn/drive/folder/fldcn9yFZpxGuRVRrPuxecQq9iv)
-
