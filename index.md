@@ -39,3 +39,8 @@ This is not a technical blog, only a matter of learning note.
 [Computer Graphics Programming In Opengl With C++](https://oux9siwj6v.feishu.cn/docs/doccnFSkmvf5vrpwZdBHPlgtbxb)
 
 [GAMES101](https://oux9siwj6v.feishu.cn/drive/folder/fldcn9yFZpxGuRVRrPuxecQq9iv)
+
+---
+
+[CV](PDF\时韦豪_简历.pdf )
+
