@@ -42,5 +42,9 @@ This is not a technical blog, only a matter of learning note.
 
 ---
 
+Others
+
 [CV](PDF\时韦豪_简历.pdf )
+
+[腾讯功能游戏研究比赛](images/功能游戏研究比赛.jpg)
 
