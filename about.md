@@ -1,5 +1,5 @@
 ---
-title: 关于 我.
+title: 关于我
 permalink: /about/
 layout: page
 excerpt: 
