@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2020-08-29 09:29:20 +0700
 categories: jekyll update
 usemathjax: true
+external_url: https://oux9siwj6v.feishu.cn/docx/FGV1dXapXoAEtvxiAYacgiAFnfe?from=from_copylink
 ---
 
 

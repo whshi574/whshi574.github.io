@@ -7,6 +7,12 @@ layout: compress
 
 {% include header.html %}
 
+<head>
+  {% if page.external_url %}
+  <meta http-equiv="refresh" content="0; url={{ page.external_url }}" />
+  {% endif %}
+</head>
+
 <body data-theme="{{ site.mode }}" class="notransition">
 
   <script>
@@ -22,7 +28,7 @@ layout: compress
         localStorage.setItem("theme", data);
       }
     };
- 
+
     initTheme(localStorage.getItem("theme"));
     
     setTimeout(() => body.classList.remove("notransition"), 75);
@@ -31,6 +37,9 @@ layout: compress
   {% include navbar.html %}
   <div class="wrapper post">
     <main class="page-content" aria-label="Content">
+      {% if page.external_url %}
+        <p>Redirecting to <a href="{{ page.external_url }}">{{ page.external_url }}</a>...</p>
+      {% else %}
       <article itemscope itemtype="https://schema.org/BlogPosting">
 
         <header class="header">
@@ -78,6 +87,7 @@ layout: compress
         {% include comments.html %}
       {% endif %}
 
+      {% endif %}
     </main>
 
     {% if page.modified %}
