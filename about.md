@@ -1,14 +1,16 @@
 ---
-title: About Me
+title: 关于 我.
 permalink: /about/
 layout: page
 excerpt: 
 comments: false
 ---
 
-I am a game developer very interested in functionality implementation and gameplay mechanics. Currently, I am more skilled in developing with the Unreal Engine and C++. I warmly welcome interesting planners and unique artists to communicate with me. Feel free to contact me via email.
+对游戏实现和机制玩法非常感兴趣啦。
 
-**may u needs ✨**
+现在比较熟练Unreal Engine开发游戏，但是也能用其他方式开发游戏，如C++，Unity等。如果你是一名独特的策划或者美术，欢迎跟我联系😎！
+
+**联系方式 ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
