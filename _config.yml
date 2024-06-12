@@ -87,3 +87,15 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+
+custom_posts:
+  - title: "Unreal"
+    url: "/path/to/post1"
+  - title: "C++"
+    url: "/path/to/post2"
+  - title: "游戏设计"
+    url: "/path/to/post3"
+  - title: "我玩过的游戏"
+    url: "/path/to/post3"
+  - title: "摄影"
+    url: "/path/to/post3"
